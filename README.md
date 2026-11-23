@@ -40,7 +40,7 @@ I am an XR software engineer and Ph.D. student in Computer Science at the Univer
 
 ### Tools I work with
 
-Unity, C#, C++, Java, Python, PyTorch, OpenXR, Meta Quest, Microsoft HoloLens, Magic Leap, HTC Vive, Android, Photon and Mirror multiplayer, Git.
+Unity, C#, C++, C, Java, Python, PyTorch, OpenXR, Meta Quest, Microsoft HoloLens, Magic Leap, HTC Vive, Android, Photon and Mirror multiplayer, Git.
 
 ---
 
