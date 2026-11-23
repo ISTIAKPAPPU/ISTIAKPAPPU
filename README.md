@@ -1,10 +1,30 @@
-## Istiak Ahmed
+<div align="center">
 
-XR software engineer and Ph.D. student in Computer Science at the University of Missouri.
+<img width="100%" alt="Istiak Ahmed, XR Software Engineer and Ph.D. Student" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:1f6f78&height=190&section=header&text=Istiak%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=XR%20Software%20Engineer%20%7C%20Ph.D.%20Student%20in%20Computer%20Science&descSize=18&descAlignY=60&descColor=d7f0f2" />
 
-[Portfolio](https://istiakpappu.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/istiak-ahmed-0836601b6/) · [Google Scholar](https://scholar.google.com/citations?user=T5LAAh0AAAAJ&hl=en) · [ia5qq@umsystem.edu](mailto:ia5qq@umsystem.edu)
+<p>
+  <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="AR VR MR" src="https://img.shields.io/badge/AR%20%7C%20VR%20%7C%20MR-1f6f78?style=for-the-badge" />
+  <img alt="5+ years experience" src="https://img.shields.io/badge/5%2B%20Years-Experience-0b1f3a?style=for-the-badge" />
+</p>
 
-I have 5+ years of Unity and C# experience designing, building and shipping AR, VR and MR applications, live mobile games and multiplayer games. My current work is real-time XR systems that bring AI into live headset sessions, and research on how to make them secure, private and comfortable for the people using them. That work has led to 9 peer-reviewed papers and an IEEE ISMAR 2025 Best Poster Award.
+<p>
+  <a href="mailto:ia5qq@umsystem.edu"><img alt="Email" src="https://img.shields.io/badge/Email-0b1f3a?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/istiak-ahmed-0836601b6/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://istiakpappu.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1f6f78?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=T5LAAh0AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+### About
+
+I am an XR software engineer and Ph.D. student in Computer Science at the University of Missouri, with 5+ years of Unity and C# experience designing, building and shipping AR, VR and MR applications, live mobile games and multiplayer games. My current work is real-time XR systems that bring AI into live headset sessions, and research on how to make them secure, private and comfortable for the people using them. That work has led to 9 peer-reviewed papers and an IEEE ISMAR 2025 Best Poster Award.
 
 ### Selected work
 
